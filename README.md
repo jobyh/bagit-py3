@@ -1,3 +1,5 @@
+This repository is no longer being maintained. You should use [bagit-python](https://github.com/LibraryOfCongress/bagit-python) which now supports python 2 & 3.
+
 bagit-python3
 =============
 
